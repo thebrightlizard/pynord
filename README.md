@@ -8,6 +8,7 @@ pip install pynord
 ```
 from pynord import PyNord
 
+# set verbose=False to suppress pynord console output
 nordvpn = PyNord(verbose=True)
 
 # get VPN connection status (returns True/False)
