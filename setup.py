@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-VERSION = '0.0.1'
+VERSION = 'dev'
 DESCRIPTION = 'A Python library for NordVPN on Linux.'
 LONG_DESCRIPTION = 'A Python library for NordVPN. Easily connect to and rotate between NordVPN servers using Python.'
 
